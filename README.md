@@ -9,4 +9,5 @@ Solutions in Python:
 - [Day 3: Crossed Wires](/3/)
 - [Day 4: Secure Container](/4/)
 - [Day 5: Sunny with a Chance of Asteroids](/5/)
+- [Day 6: Universal Orbit Map](/6/)
 - ...
