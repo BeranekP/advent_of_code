@@ -10,4 +10,5 @@ Solutions in Python:
 - [Day 4: Secure Container](/4/)
 - [Day 5: Sunny with a Chance of Asteroids](/5/)
 - [Day 6: Universal Orbit Map](/6/)
+- [Day 7: Amplification Circuit](/7/)
 - ...
