@@ -11,4 +11,5 @@ Solutions in Python:
 - [Day 5: Sunny with a Chance of Asteroids](/5/)
 - [Day 6: Universal Orbit Map](/6/)
 - [Day 7: Amplification Circuit](/7/)
+- [Day 8: Space Image Format](/8/)
 - ...
