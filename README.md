@@ -12,4 +12,5 @@ Solutions in Python:
 - [Day 6: Universal Orbit Map](/6/)
 - [Day 7: Amplification Circuit](/7/)
 - [Day 8: Space Image Format](/8/)
+- [Day 9: Sensor Boost](/9/)
 - ...
