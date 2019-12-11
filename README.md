@@ -14,4 +14,5 @@ Solutions in Python:
 - [Day 8: Space Image Format](/8/)
 - [Day 9: Sensor Boost](/9/)
 - [Day 10: Monitoring Station](/10/)
+- [Day 11: Space Police](/11/)
 - ...
