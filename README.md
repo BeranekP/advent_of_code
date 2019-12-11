@@ -13,4 +13,5 @@ Solutions in Python:
 - [Day 7: Amplification Circuit](/7/)
 - [Day 8: Space Image Format](/8/)
 - [Day 9: Sensor Boost](/9/)
+- [Day 10: Monitoring Station](/10/)
 - ...

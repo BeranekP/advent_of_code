@@ -62,4 +62,4 @@ So, the final image looks like this:
 
 _Solution: `FGJUZ`._
 
-![Drag Racing](image.png)
+![Result](image.png)
