@@ -77,4 +77,4 @@ Based on the Space Law Space Brochure that the Space Police attached to one of y
 
 _Solution: `GREJALPR`._
 
-![Result](dayEleven.png)
+![Result](dayEleven2.jpg)

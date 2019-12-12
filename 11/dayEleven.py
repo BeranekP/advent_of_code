@@ -10,15 +10,15 @@ with open('input.txt') as csv_file:
 programInstructions = [int(instr) for instr in programInstructions]
 
 
-initialSize = [100,110]
+initialSize = [100, 110]
 
 hull = [[0]*initialSize[1] for i in range(initialSize[0])]
 
-#print(hull)
+# print(hull)
 
-startPosition = [ceil(initialSize[0]/2),ceil(initialSize[1]/2)]
+startPosition = [ceil(initialSize[0]/2), ceil(initialSize[1]/2)]
 
-#print(startPostion)
+# print(startPostion)
 
 
 class Robot():
@@ -100,17 +100,19 @@ class Robot():
                 
         return self.painted, self.hull
 
-robot1=Robot(startPosition,0,hull,programInstructions)
+
+robot1 = Robot(startPosition, 0, hull, programInstructions)
 robot1.paint()
 print(sum(list(robot1.painted.values())))
 plt.imshow(robot1.hull, cmap='Reds')
 
 
-robot2=Robot(startPosition,1,hull,programInstructions)
+robot2 = Robot(startPosition, 1, hull, programInstructions)
 robot2.paint()
-
-plt.imshow(robot2.hull, cmap='binary_r',alpha=.8)
+print(len(robot2.hull),len(robot2.hull[0]))
+plt.imshow(robot2.hull,cmap='binary',alpha=0.8)
 
 plt.axis('equal')
 plt.axis('off')
 plt.show()
+
